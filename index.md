@@ -3,40 +3,16 @@ layout: default
 title: Home
 ---
 
-## Welcome to GitHub Pages
+## Work In Progress
 
-You can use the [editor on GitHub](https://github.com/shiyouganai/nekomimifan.club/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id ex purus. Aliquam auctor est non eleifend pellentesque. Nam viverra lorem vel leo aliquam porta. Proin egestas, ligula sed tempor porta, lorem ante volutpat dui, a commodo orci mi elementum diam. Sed tempus posuere vestibulum. Proin mi lectus, porta facilisis condimentum et, porta sit amet erat. Proin a commodo ante. Suspendisse pharetra ultricies varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus mi elementum, elementum est eget, tempus velit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Donec blandit risus massa, a hendrerit massa aliquam non. Nunc at neque sed tellus elementum commodo nec ut felis. Sed at consectetur leo. Ut lobortis, quam vitae egestas pharetra, risus dolor interdum nunc, sit amet varius nulla ipsum eget mi. Nullam nisl turpis, venenatis eu ipsum non, porttitor tincidunt felis. Sed non convallis mi, nec consectetur nibh. Praesent pretium bibendum nunc non imperdiet. Integer ornare sem non risus lacinia, a vulputate justo ultricies. In ut fermentum mauris, vitae bibendum ligula. Proin tincidunt sed odio eu laoreet. Vestibulum at arcu molestie, convallis tortor ut, aliquam nisi. In vulputate a nunc ut laoreet. Phasellus vitae euismod libero. Maecenas vel hendrerit neque.
 
-### Markdown
+Vestibulum a libero ullamcorper, sollicitudin justo ac, hendrerit urna. Nunc feugiat ex at eros venenatis sodales. Mauris placerat sed nisl eget maximus. Aliquam ac arcu et tellus finibus dapibus. Curabitur luctus mi ut justo tempus, non consequat ante ornare. Etiam tempus iaculis leo, eu ornare est pharetra sit amet. Donec elementum elit vel metus volutpat pharetra. Sed id consequat orci. Vivamus viverra vulputate nibh, sit amet fermentum mi auctor a. Nulla porttitor dapibus lacus, ut consectetur tortor semper egestas. Ut interdum lacus non auctor suscipit. Phasellus varius dapibus mauris, interdum accumsan velit auctor ut. Nunc congue sapien blandit ex dignissim, nec imperdiet leo hendrerit. Ut imperdiet, sem non feugiat suscipit, ex ante tempor enim, vitae blandit dolor ante sed tellus. Fusce at congue elit, sed vulputate arcu.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Donec aliquam eu velit eu sollicitudin. Quisque faucibus ultricies vulputate. Phasellus sit amet urna id quam placerat cursus. Donec egestas id dui vitae rutrum. Mauris molestie, orci sit amet lobortis consectetur, arcu tellus feugiat diam, interdum lobortis libero odio non velit. Donec ut arcu accumsan, fermentum odio eu, imperdiet ipsum. Phasellus lectus arcu, convallis id maximus a, condimentum at sem. In congue odio eu ipsum vulputate rhoncus id quis orci. Phasellus rutrum gravida purus. Integer mauris augue, volutpat sed nunc sed, lacinia tristique nisl. Praesent placerat lorem eget viverra lobortis.
 
-```markdown
-Syntax highlighted code block
+In pellentesque volutpat rhoncus. Maecenas lacinia justo ac posuere hendrerit. Phasellus quis rhoncus nibh, in vehicula lacus. Suspendisse porttitor, urna ac tincidunt imperdiet, neque odio tempor tellus, in venenatis leo augue a elit. Pellentesque at pulvinar urna. Suspendisse et dolor diam. Cras tempus sollicitudin dolor eget ultrices. Aenean a dui sapien. Nam nec fermentum justo. Vestibulum non ipsum maximus, tristique neque feugiat, tempus mi. Nulla at elit nunc. Maecenas sed elit at erat elementum efficitur quis a ligula.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shiyouganai/nekomimifan.club/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
