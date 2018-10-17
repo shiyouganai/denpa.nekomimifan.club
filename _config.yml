@@ -1,3 +1,10 @@
+collections_dir: user_collections
+collections:
+        album_1:
+                output: true
+        album_2:
+                output: true
+
 theme: jekyll-theme-minimal
 title: denpa.nekomimifan.club
 description: Everything in life is better with cat ears.

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Work In Progress
+# General Text
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id ex purus. Aliquam auctor est non eleifend pellentesque. Nam viverra lorem vel leo aliquam porta. Proin egestas, ligula sed tempor porta, lorem ante volutpat dui, a commodo orci mi elementum diam. Sed tempus posuere vestibulum. Proin mi lectus, porta facilisis condimentum et, porta sit amet erat. Proin a commodo ante. Suspendisse pharetra ultricies varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus mi elementum, elementum est eget, tempus velit.
 
