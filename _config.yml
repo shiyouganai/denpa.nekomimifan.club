@@ -8,5 +8,5 @@ collections:
 theme: jekyll-theme-minimal
 title: denpa.nekomimifan.club
 description: Everything is better with cat ears.
-# logo: 
+logo: /icons/android-chrome-512x512.png
 show_downloads: false
